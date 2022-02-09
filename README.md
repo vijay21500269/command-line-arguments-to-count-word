@@ -38,7 +38,7 @@ print("Number of words={}".format(count))
 ~~~
 
 ### OUTPUT:
-![output]()
+![output](https://github.com/vijay21500269/command-line-arguments-to-count-word/blob/main/Screenshot%20(10).png)
 
 
 
